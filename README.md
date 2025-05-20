@@ -1,6 +1,4 @@
 ## Hi there 👋
-
-# 💫 About Me:
 👋 Hi, I'm an Information Technology student with a strong interest in full-stack development and software engineering.<br>💡 I enjoy learning new technologies, solving real-world problems, and writing clean, efficient code.<br>💻 I primarily work with JavaScript, Python, React, and MySQL, and I'm always exploring new tools and frameworks.<br>🌱 Constantly learning and growing through hands-on experience and collaboration.<br>
 
 
